@@ -1,6 +1,6 @@
-## Hi!! 👋
+## Hi!! 
 
-I'm a current sophomore at UC Irvine studying CS with interest in Full Stack and AI! 
+I'm a current junior at UC Irvine studying CS with interest in Full Stack and AI! 
 
 Proefficient in Java, Python, C++, SQL, R, React, Next, Node, Typescript, AWS, Docker, Hugging Face, Html/CSS
 
