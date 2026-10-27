@@ -21,9 +21,9 @@ I'm a computer science student at UC Irvine (Statistics minor) who likes buildin
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [**RepoCity**](https://github.com/Arnav38025/RepoCity) | Point it at any codebase and it renders it as an explorable 3D city: files are buildings (height = lines of code), folders are districts, color = recency. Lit windows, rooftop beacons, and a street grid included. | Python, Three.js |
-| [**Krumbit**](https://krumbit.co) | Short-form video app for educational reels, live with 1,000+ users. Co-founded and built the production cloud infrastructure. | AWS, Docker, Redis |
-| **Revenue Forecasting Research** | LSTM / RNN models for forecasting revenue, built as part of ML research at UC Irvine. | Python, TensorFlow |
+| [**SeedanceHackathon-Reelify**](https://github.com/Arnav38025/SeedanceHackathon-Reelify) | Project for the Seed Agents Challenge with Beta Fund. | Python |
+| [**RepoCity**](https://github.com/Arnav38025/RepoCity) | Point it at any codebase and it renders it as an explorable 3D city: files are buildings (height = lines of code), folders are districts, color = recency. | Python, Three.js |
+| [**luma-ai-agent-hackathon**](https://github.com/Pranav-Batra/luma-ai-agent-hackathon) | AI agent that gets ad deals for publishing websites (blogs, news, etc.). | Python |
 
 ## 🛠️ Languages & Tools
 
