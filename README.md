@@ -12,10 +12,10 @@ I'm a computer science student at UC Irvine (Statistics minor) who likes buildin
 
 ## 🔭 What I'm doing now
 
-- **Goldman Sachs — SWE Intern, Global Banking & Markets:** Built an automated deal-mapping pipeline with AWS (ECS Fargate, EventBridge, CDK), Java, and Python, ingesting and routing $500M+ in trade data across 250K+ deals.
-- **Krumbit — Co-founder:** A TikTok-style app for scrolling educational reels, live in production with 1,000+ users. Built the cloud infrastructure on AWS (EC2, S3, RDS) with Docker and Redis caching to handle 1,000+ concurrent video streams at sub-second latency.
-- **ML Research @ UCI:** Designing and training machine learning models for revenue forecasting (LSTM / RNN).
-- **Currently:** Seeking Summer 2027 software engineering internships.
+- **Goldman Sachs** — SWE Intern, Global Banking & Markets
+- **Krumbit** — Co-founder, short-form video app for educational reels (1,000+ users)
+- **ML Research @ UCI** — Revenue forecasting with LSTM / RNN models
+- **Currently** — Seeking Summer 2027 SWE internships
 
 ## 🚀 Featured Projects
 
