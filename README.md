@@ -10,13 +10,6 @@ I'm a computer science student at UC Irvine (Statistics minor) who likes buildin
 
 ---
 
-## 🔭 What I'm doing now
-
-- **Goldman Sachs** — SWE Intern, Global Banking & Markets
-- **Krumbit** — Co-founder, short-form video app for educational reels (1,000+ users)
-- **ML Research @ UCI** — Revenue forecasting with LSTM / RNN models
-- **Currently** — Seeking Summer 2027 SWE internships
-
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
