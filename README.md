@@ -5,7 +5,7 @@
 I'm a computer science student at UC Irvine (Statistics minor) who likes building things people actually use — from trading infrastructure at Goldman Sachs to a short-form video app with 1,000+ users.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnav_Saharan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-saharan-b94967211/)
-[![Krumbit](https://img.shields.io/badge/Krumbit-Visit-232323?style=flat)](https://krumbit.vercel.app)
+[![Krumbit](https://img.shields.io/badge/Krumbit-Visit-232323?style=flat)](https://krumbit.co)
 ![GitHub followers](https://img.shields.io/github/followers/Arnav38025?label=Follow&style=social)
 
 ---
@@ -22,7 +22,7 @@ I'm a computer science student at UC Irvine (Statistics minor) who likes buildin
 | Project | Description | Stack |
 | --- | --- | --- |
 | [**RepoCity**](https://github.com/Arnav38025/RepoCity) | Point it at any codebase and it renders it as an explorable 3D city: files are buildings (height = lines of code), folders are districts, color = recency. Lit windows, rooftop beacons, and a street grid included. | Python, Three.js |
-| [**Krumbit**](https://krumbit.vercel.app) | Short-form video app for educational reels, live with 1,000+ users. Co-founded and built the production cloud infrastructure. | AWS, Docker, Redis |
+| [**Krumbit**](https://krumbit.co) | Short-form video app for educational reels, live with 1,000+ users. Co-founded and built the production cloud infrastructure. | AWS, Docker, Redis |
 | **Revenue Forecasting Research** | LSTM / RNN models for forecasting revenue, built as part of ML research at UC Irvine. | Python, TensorFlow |
 
 ## 🛠️ Languages & Tools
@@ -42,11 +42,6 @@ I'm a computer science student at UC Irvine (Statistics minor) who likes buildin
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-## 📊 GitHub Stats
-
-![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arnav38025&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav38025&layout=compact&hide_border=true)
 
 ## 🌱 Interests
 
